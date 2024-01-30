@@ -12,3 +12,17 @@ D:\Sadman Old Desktop\WSD\Task_for_WSD\BankingApplication\obj\Debug\net7.0\refin
 D:\Sadman Old Desktop\WSD\Task_for_WSD\BankingApplication\obj\Debug\net7.0\BankingApplication.pdb
 D:\Sadman Old Desktop\WSD\Task_for_WSD\BankingApplication\obj\Debug\net7.0\BankingApplication.genruntimeconfig.cache
 D:\Sadman Old Desktop\WSD\Task_for_WSD\BankingApplication\obj\Debug\net7.0\ref\BankingApplication.dll
+E:\Projects and Programs\TaskWSD\Task_for_WSD\BankingApplication\bin\Debug\net7.0\BankingApplication.exe
+E:\Projects and Programs\TaskWSD\Task_for_WSD\BankingApplication\bin\Debug\net7.0\BankingApplication.deps.json
+E:\Projects and Programs\TaskWSD\Task_for_WSD\BankingApplication\bin\Debug\net7.0\BankingApplication.runtimeconfig.json
+E:\Projects and Programs\TaskWSD\Task_for_WSD\BankingApplication\bin\Debug\net7.0\BankingApplication.dll
+E:\Projects and Programs\TaskWSD\Task_for_WSD\BankingApplication\bin\Debug\net7.0\BankingApplication.pdb
+E:\Projects and Programs\TaskWSD\Task_for_WSD\BankingApplication\obj\Debug\net7.0\BankingApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects and Programs\TaskWSD\Task_for_WSD\BankingApplication\obj\Debug\net7.0\BankingApplication.AssemblyInfoInputs.cache
+E:\Projects and Programs\TaskWSD\Task_for_WSD\BankingApplication\obj\Debug\net7.0\BankingApplication.AssemblyInfo.cs
+E:\Projects and Programs\TaskWSD\Task_for_WSD\BankingApplication\obj\Debug\net7.0\BankingApplication.csproj.CoreCompileInputs.cache
+E:\Projects and Programs\TaskWSD\Task_for_WSD\BankingApplication\obj\Debug\net7.0\BankingApplication.dll
+E:\Projects and Programs\TaskWSD\Task_for_WSD\BankingApplication\obj\Debug\net7.0\refint\BankingApplication.dll
+E:\Projects and Programs\TaskWSD\Task_for_WSD\BankingApplication\obj\Debug\net7.0\BankingApplication.pdb
+E:\Projects and Programs\TaskWSD\Task_for_WSD\BankingApplication\obj\Debug\net7.0\BankingApplication.genruntimeconfig.cache
+E:\Projects and Programs\TaskWSD\Task_for_WSD\BankingApplication\obj\Debug\net7.0\ref\BankingApplication.dll

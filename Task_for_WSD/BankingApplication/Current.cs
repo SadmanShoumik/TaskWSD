@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace BankingApplication
 {
-    public class AccountTier1 : UserAccount
+    public class Current : UserAccount
     {
         public static int MinDepositAmount = 100;
         public static int MaxWithdrawAmount = 1000;
 
-        public AccountTier1(string name, string number, DateTime creationDate, int amount)
+        public Current(string name, string number, DateTime creationDate, int amount)
         {
             Name = name;
             Number = number;
@@ -34,10 +34,10 @@ namespace BankingApplication
 
             if(amount < 0)
             {
-                Console.WriteLine($"Invalid Amount!\nYou Cannot Deposit a Negative Amount of Money!");
+                Console.WriteLine($"Invalid Amount!\nAmount Cannot Be Negative!");
             }
             else if (amount < MinDepositAmount)
-                Console.WriteLine($"Invalid Amount!\nThe Minimum Deposit Amount for Your Account is: {MinDepositAmount} USD!");
+                Console.WriteLine($"Invalid Amount!\nThe Minimum Amount for This Action is: {MinDepositAmount} USD!");
             else
             {
                 Amount += amount;

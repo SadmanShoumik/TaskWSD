@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sadman Old Desktop\\WSD\\Task_for_WSD\\BankingApplication\\BankingApplication.csproj": {}
+    "E:\\Projects and Programs\\TaskWSD\\Task_for_WSD\\BankingApplication\\BankingApplication.csproj": {}
   },
   "projects": {
-    "D:\\Sadman Old Desktop\\WSD\\Task_for_WSD\\BankingApplication\\BankingApplication.csproj": {
+    "E:\\Projects and Programs\\TaskWSD\\Task_for_WSD\\BankingApplication\\BankingApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sadman Old Desktop\\WSD\\Task_for_WSD\\BankingApplication\\BankingApplication.csproj",
+        "projectUniqueName": "E:\\Projects and Programs\\TaskWSD\\Task_for_WSD\\BankingApplication\\BankingApplication.csproj",
         "projectName": "BankingApplication",
-        "projectPath": "D:\\Sadman Old Desktop\\WSD\\Task_for_WSD\\BankingApplication\\BankingApplication.csproj",
-        "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
-        "outputPath": "D:\\Sadman Old Desktop\\WSD\\Task_for_WSD\\BankingApplication\\obj\\",
+        "projectPath": "E:\\Projects and Programs\\TaskWSD\\Task_for_WSD\\BankingApplication\\BankingApplication.csproj",
+        "packagesPath": "C:\\Users\\Shoumik\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects and Programs\\TaskWSD\\Task_for_WSD\\BankingApplication\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Shoumik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

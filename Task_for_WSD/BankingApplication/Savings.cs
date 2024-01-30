@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace BankingApplication
 {
-    public class AccountTier3 : UserAccount
+    public class Savings : UserAccount
     {
-        public static int MinDepositAmount = 1000;
-        public static int MaxWithdrawAmount = 10000;
+        public static int MinDepositAmount = 500;
+        public static int MaxWithdrawAmount = 5000;
 
-        public AccountTier3(string name, string number, DateTime creationDate, int amount)
+        public Savings(string name, string number, DateTime creationDate, int amount)
         {
             Name = name;
             Number = number;
