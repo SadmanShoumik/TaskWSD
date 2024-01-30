@@ -9,7 +9,7 @@ namespace BankingApplication
     public class Savings : UserAccount
     {
         public static int MinDepositAmount = 500;
-        public static int MaxWithdrawAmount = 5000;
+        public static int MaxWithdrawAmount = 500;
 
         public Savings(string name, string number, DateTime creationDate, int amount)
         {

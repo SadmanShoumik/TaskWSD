@@ -10,12 +10,12 @@ Operations op = new Operations();
 #region Interface
 while (true)
 {
-    int currentOption = 4;
+    int currentOption = 5;
 
     while (true)
     {
         Console.Clear();
-        Console.WriteLine("Welcome to the Banking Application!\nPlease Choose an Action to Perform from the List Provided Below (Use the Arrow Keys to Navigate This Menu):\n\n");
+        Console.WriteLine("Welcome to the Banking Application!\nPlease Choose an Action to Perform from the List Provided Below\n(Use the Arrow Keys and Enter to Navigate This Menu):\n\n");
         Console.WriteLine("  1. Create a New Account");
         Console.WriteLine("  2. Display All Accounts");
         Console.WriteLine("  3. Update an Account");
@@ -38,34 +38,32 @@ while (true)
         else if (keyInfo.Key == ConsoleKey.UpArrow)
         {
             currentOption--;
-            if (currentOption < 4)
+            if (currentOption < 5)
             {
-                currentOption = 11;
+                currentOption = 12;
             }
         }
         else if (keyInfo.Key == ConsoleKey.DownArrow)
         {
             currentOption++;
-            if (currentOption > 11)
+            if (currentOption > 12)
             {
-                currentOption = 4;
+                currentOption = 5;
             }
         }
     }
 
-    currentOption -= 3;
+    currentOption -= 4;
     switch (currentOption)
     {
         case 1:
-            //Console.WriteLine("1");
             op.CreateAccount();
             break;
         case 2:
-            //Console.WriteLine("2");
             op.ViewAllAccounts();
             break;
         case 3:
-            Console.WriteLine("3");
+            op.UpdateAccount();
             break;
         case 4:
             Console.WriteLine("4");

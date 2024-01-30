@@ -9,7 +9,7 @@ namespace BankingApplication
     public class Current : UserAccount
     {
         public static int MinDepositAmount = 100;
-        public static int MaxWithdrawAmount = 1000;
+        public static int MaxWithdrawAmount = 100;
 
         public Current(string name, string number, DateTime creationDate, int amount)
         {
