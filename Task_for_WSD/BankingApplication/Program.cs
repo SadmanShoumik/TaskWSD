@@ -66,19 +66,19 @@ while (true)
             op.UpdateAccount();
             break;
         case 4:
-            Console.WriteLine("4");
+            op.DeleteAccount();
             break;
         case 5:
-            Console.WriteLine("5");
+            op.DepositMoney();
             break;
         case 6:
-            Console.WriteLine("6");
+            op.WithdrawMoney();
             break;
         case 7:
-            Console.WriteLine("7");
+            op.SearchAccount();
             break;
         case 8:
-            Console.WriteLine("8");
+            Environment.Exit(0);
             break;
         default:
             break;

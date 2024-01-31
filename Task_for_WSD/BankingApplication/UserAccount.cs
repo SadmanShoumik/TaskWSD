@@ -12,10 +12,5 @@ namespace BankingApplication
         public string Number { get; set; }
         public DateTime CreationDate { get; set; }
         public int Amount { get; set; }
-
-        public virtual void DepositMoney(string depositAmount)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
